@@ -2,13 +2,6 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 //  Q3
 //  Informar um saldo e imprimir o saldo com reajuste de 1%.
-//  1.a João recebeu seu salário e precisa pagar duas contas atrasadas. Em razão do
-//  atraso, ele deverá pagar multa de 2% sobre cada conta. Faça um programa que calcule 
-//  e mostre quanto restará do salário de João. 
-//  2. Sabe-se que, para iluminar de maneira correta os cômodos de uma casa, para 
-//  cada m2, deve-se usar 18 W de potência. Faça um programa que receba as duas 
-//  dimensões de um cômodo (em metros), calcule e mostre a sua área (em m2) e a 
-//  potência de iluminação que deverá ser utilizada.
 public class Q3
 {
     private double balance;

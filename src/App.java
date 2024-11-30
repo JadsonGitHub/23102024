@@ -25,10 +25,12 @@ public class App
         money.balance();
         money.compute();
         money.result();
-        /*/
+        //
         Q4 worker = new Q4();
         worker.readWage();
         worker.readIncome();
         worker.calculate();
+        /*/
+        
     }
 }
